@@ -1,0 +1,13 @@
+.editor {
+  max-width: 600px;
+  margin: 1.125rem auto;
+}
+
+textarea {
+  max-width: 100%;
+  min-width: 100%;
+  min-height: 150px;
+  background-color: #c0d8d8;
+  border: 1px solid #1d2f2f;
+  box-shadow: 1px 1px 10px 2px #3a5f5f;
+}

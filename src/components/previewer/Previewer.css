@@ -1,0 +1,29 @@
+.previewer {
+  max-width: 800px;
+  margin: 1.25rem auto;
+  min-height: 200px;
+  overflow-wrap: break-word;
+}
+
+.preview {
+  min-height: 150px;
+  background-color: #c0d8d8;
+  border: 1px solid #1d2f2f;
+  box-shadow: 1px 1px 10px 2px #3a5f5f;
+}
+.content {
+  margin: 2px;
+}
+
+pre {
+  background: white;
+  font-size: 0.875rem;
+  font-weight: bold;
+}
+
+blockquote {
+  border-left: 3px solid #224b4b;
+  color: #224b4b;
+  padding-left: 5px;
+  margin-left: 25px;
+}

@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  background-color: #4aa3a3;
+  border: 1px solid #1d2f2f;
+  box-shadow: 1px 1px 10px 2px #3a5f5f;
+}
+
+.btn {
+  margin-left: auto;
+  cursor: pointer;
+}
+
+.full-height {
+  min-height: 95vh;
+}
+
+.btn:hover {
+  margin-left: auto;
+  cursor: pointer;
+  color: #d5fbfb;
+}
+
+.logo {
+  margin: 4px;
+}
+
+.header-text {
+  margin: 4px;
+  font-size: 1rem;
+}
